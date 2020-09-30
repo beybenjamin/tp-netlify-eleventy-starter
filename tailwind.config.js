@@ -14,11 +14,14 @@ module.exports = {
       },
       colors: {
         'projet-tonic':'#FFDD67',
-      }
+      },
+      screens:{
+        'portrait': {'raw':'(orientation: portrait)'},
+      },
     },
   },
   variants: {},
   plugins: [],
-}
+};
 
 
