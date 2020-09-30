@@ -1,4 +1,5 @@
 module.exports = {
+
   future: {
     removeDeprecatedGapUtilities: true,
     purgeLayersByDefault: true,
@@ -7,8 +8,14 @@ module.exports = {
     enabled: false,
   },
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'projet-tonic':'#FFDD67',
+      }
+    },
   },
   variants: {},
   plugins: [],
 }
+
+
