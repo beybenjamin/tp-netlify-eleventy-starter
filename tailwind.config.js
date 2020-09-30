@@ -9,6 +9,9 @@ module.exports = {
   },
   theme: {
     extend: {
+      fontFamily: {
+        'sans': 'Open Sans',
+      },
       colors: {
         'projet-tonic':'#FFDD67',
       }
