@@ -6,3 +6,6 @@ eleventyNavigation:
 ---
 
 Welcome to Eleventy starter.
+
+
+"test bonjour à tous et souriez, c'est l'été :-)"
